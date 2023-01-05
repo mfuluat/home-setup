@@ -1,5 +1,5 @@
-# Pio Setup
+# Home Setup
 
-My setup scripts to setup developer environments on different machines.
+Linux makine için gerekli geliştirme ortamını farklı makinelerde ortak bir şekilde oluşturmak için kullanılacak olan betikleri içerir.
 
 
